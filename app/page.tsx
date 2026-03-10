@@ -317,8 +317,6 @@ export default function Home() {
                             
                         </div>
                         <div className="donate-decoration">
-                            <div className="donate-hexagon"></div>
-                            <div className="donate-hexagon donate-hexagon-2"></div>
                             <Gamepad2 size={120} className="donate-icon-bg" />
                         </div>
                     </div>
@@ -350,7 +348,7 @@ export default function Home() {
                             <div className="footer-link-col">
                                 <h4 className="footer-link-heading">Connect</h4>
                                 <a href="#" className="footer-link">Discord</a>
-                                <a href="#" className="footer-link">Instagram</a>
+                                <a href="#" className="footer-link">GroupMe</a>
                                 <a href="#" className="footer-link">Twitter</a>
                             </div>
                         </div>
