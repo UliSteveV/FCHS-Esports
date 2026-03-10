@@ -348,7 +348,7 @@ export default function Home() {
                             <div className="footer-link-col">
                                 <h4 className="footer-link-heading">Connect</h4>
                                 <a href="https://discord.gg/ghCJgtyMvu" target="_blank" className="footer-link">Discord</a>
-                                <a href="#" className="footer-link">GroupMe</a>
+                                <a href="https://groupme.com/join_group/109485316/sOZkbsCP" target="_blank" className="footer-link">GroupMe</a>
                                 <a href="#" className="footer-link">Twitter</a>
                             </div>
                         </div>
