@@ -13,14 +13,14 @@
     "framer-motion": "^11.18.2",
     "lucide-react": "^0.300.0",
     "next": "latest",
-    "react": "16.5.1",
-    "react-dom": "16.5.1",
+    "react": "latest",
+    "react-dom": "latest",
     "tailwind-merge": "^3.4.1"
   },
   "devDependencies": {
-    "@types/node": "16.5.1",
-    "@types/react": "16.5.1",
-    "@types/react-dom": "16.5.1",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
     "typescript": "latest"
   }
 }
