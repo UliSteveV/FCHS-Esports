@@ -5,7 +5,7 @@ This is the official website for the Forsyth Central Esports Club, built with [N
 ## Getting Started
 
 Navigate to 
-https://fchs-esports.vercel.app/
+[https://fchs-esports.vercel.app/](https://fchs-esports-brown.vercel.app/)
 
 Created by Hussain Syed and Ulises Villagomez
 
